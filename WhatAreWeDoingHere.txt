@@ -1,0 +1,5 @@
+podcast info is being built:
+
+1. We have a feed.yaml, easy to write from the end user
+2. We are hosting readme.md as static website using github pages.
+3. Write feed.py -> Python script that converts the feed.yaml file to RSS format
